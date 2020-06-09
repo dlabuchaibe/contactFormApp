@@ -1,0 +1,21 @@
+{
+  "name": "contactformapp",
+  "version": "1.0.0",
+  "description": "api rest contact form app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "contact",
+    "form",
+    "app"
+  ],
+  "author": "Daniel Abuchaibe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
